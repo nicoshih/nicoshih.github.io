@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Nicole YS Shih"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Nicole Shih"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Data Journalist, Data Analyst, Data Visualization Enthusiast"
+  location         : "Phoenix, AZ"
+  employer         : "DePaul University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "nicoshih1122@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
