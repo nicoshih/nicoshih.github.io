@@ -36,8 +36,13 @@ How to edit your site's GitHub repository
 ------
 123
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png) ![Editing a markdown file for a talk](/images/editing-talk.png)![Editing a markdown file for a talk](/images/editing-talk.png)![Editing a markdown file for a talk](/images/editing-talk.png)![Editing a markdown file for a talk](/images/editing-talk.png)
+<p align="center">
+  <img src="/images/editing-talk.png" alt="Editing a markdown file for a talk" width="150"/>
+  <img src="/images/editing-talk.png" alt="Editing a markdown file for a talk" width="150"/>
+  <img src="/images/editing-talk.png" alt="Editing a markdown file for a talk" width="150"/>
+  <img src="/images/editing-talk.png" alt="Editing a markdown file for a talk" width="150"/>
+  <img src="/images/editing-talk.png" alt="Editing a markdown file for a talk" width="150"/>
+</p>
 
 For more info
 ------
