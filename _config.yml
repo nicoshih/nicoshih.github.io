@@ -10,8 +10,8 @@
 locale                   : "en-US"
 title                    : "Nicole YS Shih"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Nicole"
+description              : &description "Hello everyone"
 url                      : https://nicoshih.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nicoshih/nicoshih.github.io"
@@ -21,7 +21,7 @@ repository               : "nicoshih/nicoshih.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "https://media.licdn.com/dms/image/v2/C5103AQFh_QdS6wKTrg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1582520694301?e=1732147200&v=beta&t=Qfs9xdo4w8s0rnqtIZWaZBi0rNhtSyvg5henAQfbDKA"
   name             : "Nicole Shih"
   pronouns         : # example: "she/her"  
   bio              : "Data Journalist, Data Analyst, Data Visualization Enthusiast"
