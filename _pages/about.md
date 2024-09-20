@@ -47,17 +47,17 @@ Explore more of my data visualizations here, and check out writing samples here.
 </p>
 
 <p align="center">
-  <a href=""><img src="/images/charts/soccer1.png" alt="Editing a markdown file for a talk" width="33%"/></a>
-  <a href=""><img src="/images/charts/soccer2.png" alt="Editing a markdown file for a talk" width="33%"/></a>
-    <a href=""><img src="/images/charts/wfh.png" alt="Editing a markdown file for a talk" width="33%"/></a>
+  <a href=""><img src="/images/charts/soccer1.png" alt="Editing a markdown file for a talk" width="32%"/></a>
+  <a href=""><img src="/images/charts/soccer2.png" alt="Editing a markdown file for a talk" width="32%"/></a>
+    <a href=""><img src="/images/charts/wfh.png" alt="Editing a markdown file for a talk" width="32%"/></a>
 </p>
 
 
 
 <p align="center">
-  <a href=""><img src="/images/charts/hotelmap.png" alt="Editing a markdown file for a talk" width="33%"/></a>
-  <a href=""><img src="/images/charts/railmap.png" alt="Editing a markdown file for a talk" width="33%"/></a>
-    <a href=""><img src="/images/charts/heatmap.png" alt="Editing a markdown file for a talk" width="33%"/></a>
+  <a href=""><img src="/images/charts/hotelmap.png" alt="Editing a markdown file for a talk" width="32%"/></a>
+  <a href=""><img src="/images/charts/railmap.png" alt="Editing a markdown file for a talk" width="32%"/></a>
+    <a href=""><img src="/images/charts/heatmap.png" alt="Editing a markdown file for a talk" width="32%"/></a>
 </p>
 
 <p align="center">
