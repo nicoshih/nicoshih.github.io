@@ -19,7 +19,3 @@ Hello! I am a data journalist / data analyst. I've worked for CoStar News as a d
   <img src="/images/charts/dot.gif" alt="Editing a markdown file for a talk" width="150"/>
   <img src="/images/charts/sweet16.gif" alt="Editing a markdown file for a talk" width="150"/>
 </p>
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
