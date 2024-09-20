@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "I reporter, I analyze, I code, I make visuals."
+title: "I report, I analyze, I code, I make visuals."
 author_profile: true
 redirect_from: 
   - /about/
