@@ -18,7 +18,7 @@ main:
 #    url: /year-archive/
     
   - title: "Writing"
-    url: /"https://muckrack.com/nicoleshih/articles"/
+    url: https://muckrack.com/nicoleshih/articles
     
  # - title: "Guide"
   #  url: /markdown/
