@@ -67,7 +67,7 @@ redirect_from:
 <p align="center">
   <a href="https://www.costar.com/article/2030217368/los-angeles-skyscraper-unfinished-and-for-sale-draws-potential-buyers-%E2%80%94-and-new-ideas?utm_campaign=news&utm_content=https://www.costar.com/ar&utm_medium=social&utm_source=twitter&utm_term=news"><img src="/images/charts/3dmap.png" alt="Editing a markdown file for a talk" width="32%"/></a>
   <a href=""><img src="/images/charts/grocery.png" alt="Editing a markdown file for a talk" width="32%"/></a>
-    <a href=""><img src="/images/charhttps://www.costar.com/article/1929064364/younger-households-propel-surge-in-us-homeownershipts/young_rent.png" alt="Editing a markdown file for a talk" width="32%"/></a>
+    <a href="/images/charhttps://www.costar.com/article/1929064364/younger-households-propel-surge-in-us-homeownershipts/young_rent.png"><img src="/images/charts/young_rent.png" alt="Editing a markdown file for a talk" width="32%"/></a>
 </p>
 
 <p align="center">
