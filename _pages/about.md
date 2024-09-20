@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Hey there! I am Nicole Shih, and welcome to my personal website!"
+title: "I reporter, I analyze, I code, I make visuals."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-<p>Hello! I’m a data journalist and analyst with experience at CoStar News, where I led data visualization efforts on costar.com. Along with creating data-driven stories, I collaborated with reporters on enterprise-level data projects. I also managed CoStar’s news traffic dashboard using SQL and Power BI, helping news leaders shape their strategy. Previously, I reported for the Telegram & Gazette, part of the USA TODAY Network </p>
+<p>Hello! I’m a data journalist and analyst with experience at CoStar News, where I led data visualization efforts on costar.com. Along with creating my own data-driven stories, I collaborated with reporters on enterprise-level data projects. I also managed CoStar’s news traffic dashboard using SQL and Power BI, helping news leaders shape their strategy. Previously, I also reported for Telegram & Gazette, part of the USA TODAY Network. </p>
 
 <p>Explore more of my data works <a href="https://www.costar.com/author/a0815d71dd4bd3bd538ba2f4760ec8d5/nicoleshih">here</a>, and writing samples <a href="https://www.telegram.com/staff/4250655001/nicole-shih/">here. </a> </p>
 
