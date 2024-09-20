@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<p>Hello! I’m a data journalist and analyst with experience at CoStar News, where I led data visualization efforts on costar.com. Along with creating my own data-driven stories, I collaborated with reporters on enterprise-level data projects. I also managed CoStar’s news traffic dashboard using SQL and Power BI, helping news leaders shape their strategy. Previously, I also reported for Telegram & Gazette, part of the USA TODAY Network. </p>
+<p>Hello world! I’m a data journalist and analyst with a passion for storytelling through data and visualizations. At CoStar News, I led data visualization efforts for costar.com, creating engaging data-driven stories while collaborating with reporters on enterprise projects. I also managed the news traffic dashboard using SQL and Power BI, helping news leaders shape their strategy. Before CoStar, I worked as a reporter for Telegram & Gazette, part of the USA TODAY Network. </p>
 
 <p>Explore more of my data works <a href="https://www.costar.com/author/a0815d71dd4bd3bd538ba2f4760ec8d5/nicoleshih">here</a>, and writing samples <a href="https://www.telegram.com/staff/4250655001/nicole-shih/">here. </a> </p>
 
