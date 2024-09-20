@@ -18,19 +18,28 @@ redirect_from:
 </p>
 
 <p align="center">
-  <a href=""><img src="/images/charts/Can_fire.gif" alt="Editing a markdown file for a talk" width="33%"/></a>
-  <a href=""><img src="/images/charts/pickle.png" alt="Editing a markdown file for a talk" width="33%"/></a>
+  <a href=""><img src="/images/charts/Can_fire.gif" alt="Editing a markdown file for a talk" width="100%"/></a>
+</p>
+
+<p align="center">
+ <a href=""><img src="/images/charts/pickle.png" alt="Editing a markdown file for a talk" width="33%"/></a>
     <a href=""><img src="/images/charts/subway.png" alt="Editing a markdown file for a talk" width="33%"/></a>
+  <a href="https://www.costar.com/article/156658731/warehouse-opposition-hardens-in-new-jersey-against-proposed-megaprojects"><img src="/images/charts/FukHuaaaAAMoTWl.png" alt="Editing a markdown file for a talk" width="33%"/></a>
 </p>
 
 <p align="center">
-     <a href="https://www.costar.com/article/1436720963/severe-weather-expected-to-make-commercial-property-insurance-more-costly-harder-to-find"> <img src="/images/charts/fire.png" alt="Editing a markdown file for a talk" width="250"/> </a>
-   <a href="https://www.costar.com/article/1484428056/hawaii-wildfires-rip-through-heart-of-mauis-commercial-district-killing-dozens-destroying-property"><img src="/images/charts/maui.png" alt="Editing a markdown file for a talk" width="250"/></a>
-   <a href="https://www.costar.com/article/156658731/warehouse-opposition-hardens-in-new-jersey-against-proposed-megaprojects"><img src="/images/charts/FukHuaaaAAMoTWl.png" alt="Editing a markdown file for a talk" width="250"/></a>
+  <a href=""><img src="/images/charts/mapbox_EV.gif" alt="Editing a markdown file for a talk" width="48%"/></a>
+    <a href=""><img src="/images/charts/dutch.png" alt="Editing a markdown file for a talk" width="48%"/></a>
+</p>
+
+
+<p align="center">
+     <a href="https://www.costar.com/article/1436720963/severe-weather-expected-to-make-commercial-property-insurance-more-costly-harder-to-find"> <img src="/images/charts/fire.png" alt="Editing a markdown file for a talk" width="48%"/> </a>
+   <a href="https://www.costar.com/article/1484428056/hawaii-wildfires-rip-through-heart-of-mauis-commercial-district-killing-dozens-destroying-property"><img src="/images/charts/maui.png" alt="Editing a markdown file for a talk" width="48%"/></a>
+   
 </p>
 
 <p align="center">
-  <a href=""><img src="/images/charts/dutch.png" alt="Editing a markdown file for a talk" width="150"/></a>
   <a href=""><img src="/images/charts/grid_scatter.png" alt="Editing a markdown file for a talk" width="150"/></a>
     <a href=""><img src="/images/charts/fl.png" alt="Editing a markdown file for a talk" width="150"/></a>
 </p>
@@ -41,10 +50,7 @@ redirect_from:
     <a href=""><img src="/images/charts/wfh.png" alt="Editing a markdown file for a talk" width="150"/></a>
 </p>
 
-<p align="center">
-  <a href=""><img src="/images/charts/mapbox_EV.gif" alt="Editing a markdown file for a talk" width="150"/></a>
-  <a href=""><img src="/images/charts/scrolly.gif" alt="Editing a markdown file for a talk" width="150"/></a>
-</p>
+
 
 <p align="center">
   <a href=""><img src="/images/charts/hotelmap.png" alt="Editing a markdown file for a talk" width="150"/></a>
