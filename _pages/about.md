@@ -7,9 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-<p>Hello! I am a data journalist / data analyst. I've worked for CoStar News as a data visualization journalist, and as a news reporter with Telegram & Gazette, USA TODAY Network. At CoStar, I was in charge of all things data visualization at costar.com, and from time to time I produced real estate stories with data, as well as collaborated with reporters on data enterprise stories. I also managed CoStar's news traffic dashboard by utilizing SQL as well as Power BI as a data analyst role within the organization.   </p>
+<p>Hello! I am a data journalist and analyst with experience at CoStar News, where I led data visualization efforts on costar.com. In addition to producing data-driven real estate stories, I collaborated with reporters on enterprise data projects. I also managed CoStar’s news traffic dashboard using SQL and Power BI, bridging my technical skills with journalistic storytelling. My previous work includes reporting for the Telegram & Gazette and USA TODAY Network.
 
-<p>Selected works below. More data works can be seen <a href="https://www.costar.com/author/a0815d71dd4bd3bd538ba2f4760ec8d5/nicoleshih">here</a>. Writing samples <a href="https://www.telegram.com/staff/4250655001/nicole-shih/">here. </a> </p>
+Explore more of my data visualizations here, and check out writing samples here.  </p>
+
+<p>Explore more of my data works <a href="https://www.costar.com/author/a0815d71dd4bd3bd538ba2f4760ec8d5/nicoleshih">here</a>, and writing samples <a href="https://www.telegram.com/staff/4250655001/nicole-shih/">here. </a> </p>
 
 <p align="center">
   <a href=""><img src="/images/charts/dot.gif" alt="Editing a markdown file for a talk" width="48%"/></a>
@@ -39,9 +41,9 @@ redirect_from:
 </p>
 
 <p align="center">
-  <a href=""><img src="/images/charts/grid_scatter.png" alt="Editing a markdown file for a talk" width="33%"/></a>
-    <a href=""><img src="/images/charts/fl.png" alt="Editing a markdown file for a talk" width="33%"/></a>
-  <a href="https://www.costar.com/article/156658731/warehouse-opposition-hardens-in-new-jersey-against-proposed-megaprojects"><img src="/images/charts/FukHuaaaAAMoTWl.png" alt="Editing a markdown file for a talk" width="33%"/></a>
+  <a href=""><img src="/images/charts/grid_scatter.png" alt="Editing a markdown file for a talk" width="32%"/></a>
+    <a href=""><img src="/images/charts/fl.png" alt="Editing a markdown file for a talk" width="32%"/></a>
+  <a href="https://www.costar.com/article/156658731/warehouse-opposition-hardens-in-new-jersey-against-proposed-megaprojects"><img src="/images/charts/FukHuaaaAAMoTWl.png" alt="Editing a markdown file for a talk" width="32%"/></a>
 </p>
 
 <p align="center">
