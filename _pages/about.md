@@ -31,9 +31,9 @@ redirect_from:
 </p>
 
 <p align="center">
-  <a href=""><<img src="/images/charts/dutch.png" alt="Editing a markdown file for a talk" width="150"/></a>
-  <a href=""><<img src="/images/charts/grid_scatter.png" alt="Editing a markdown file for a talk" width="150"/></a>
-    <a href=""><<img src="/images/charts/fl.png" alt="Editing a markdown file for a talk" width="150"/></a>
+  <a href=""><img src="/images/charts/dutch.png" alt="Editing a markdown file for a talk" width="150"/></a>
+  <a href=""><img src="/images/charts/grid_scatter.png" alt="Editing a markdown file for a talk" width="150"/></a>
+    <a href=""><img src="/images/charts/fl.png" alt="Editing a markdown file for a talk" width="150"/></a>
 </p>
 
 <p align="center">
