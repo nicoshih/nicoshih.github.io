@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a data journalist / data analyst. I've worked for CoStar News as a data visualization journalist, and as a news reporter with Telegram & Gazette, USA TODAY Network. At CoStar, I was in charge of all things data visualization at costar.com, and from time to time I produced real estate stories with data, as well as collaborated with reporters on data enterprise stories. I also managed CoStar's news traffic dashboard by utilizing SQL as well as Power BI as a data analyst role within the organization.   
+<p>Hello! I am a data journalist / data analyst. I've worked for CoStar News as a data visualization journalist, and as a news reporter with Telegram & Gazette, USA TODAY Network. At CoStar, I was in charge of all things data visualization at costar.com, and from time to time I produced real estate stories with data, as well as collaborated with reporters on data enterprise stories. I also managed CoStar's news traffic dashboard by utilizing SQL as well as Power BI as a data analyst role within the organization.   </p>
+
+<p>Selected works below. More data works can be seen here. Writing samples here.  </p>
 
 
 <p align="center">
