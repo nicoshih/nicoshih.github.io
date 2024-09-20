@@ -44,6 +44,14 @@ How to edit your site's GitHub repository
   <img src="/images/editing-talk.png" alt="Editing a markdown file for a talk" width="150"/>
 </p>
 
+<p align="center">
+  <img src="/images/editing-talk.png" alt="Editing a markdown file for a talk" width="150"/>
+  <img src="/images/editing-talk.png" alt="Editing a markdown file for a talk" width="150"/>
+  <img src="/images/editing-talk.png" alt="Editing a markdown file for a talk" width="150"/>
+  <img src="/images/editing-talk.png" alt="Editing a markdown file for a talk" width="150"/>
+  <img src="/images/editing-talk.png" alt="Editing a markdown file for a talk" width="150"/>
+</p>
+
 For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
