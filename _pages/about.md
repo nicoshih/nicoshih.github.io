@@ -9,7 +9,7 @@ redirect_from:
 
 <p>Hello! I am a data journalist / data analyst. I've worked for CoStar News as a data visualization journalist, and as a news reporter with Telegram & Gazette, USA TODAY Network. At CoStar, I was in charge of all things data visualization at costar.com, and from time to time I produced real estate stories with data, as well as collaborated with reporters on data enterprise stories. I also managed CoStar's news traffic dashboard by utilizing SQL as well as Power BI as a data analyst role within the organization.   </p>
 
-<p>Selected works below. More data works can be seen here. Writing samples here.  </p>
+<p>Selected works below. More data works can be seen <a href="https://www.costar.com/author/a0815d71dd4bd3bd538ba2f4760ec8d5/nicoleshih">here</a>. Writing samples <a href="https://www.telegram.com/staff/4250655001/nicole-shih/">here. </a> </p>
 
 
 <p align="center">
