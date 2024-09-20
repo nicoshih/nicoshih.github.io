@@ -37,8 +37,8 @@ How to edit your site's GitHub repository
 123
 
 <p align="center">
-  <img src="/images/charts/dot.gif" alt="Editing a markdown file for a talk" width="150"/>
-  <img src="/images/sweet16.gif" alt="Editing a markdown file for a talk" width="150"/>
+  <img src="/images/charts/dot.gif" alt="Editing a markdown file for a talk" width="100%"/>
+  <img src="/images/sweet16.gif" alt="Editing a markdown file for a talk" width="100%"/>
 </p>
 
 <p align="center">
