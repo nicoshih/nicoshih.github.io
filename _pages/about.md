@@ -22,8 +22,8 @@ redirect_from:
 </p>
 
 <p align="center">
- <a href=""><img src="/images/charts/pickle.png" alt="Editing a markdown file for a talk" width="33%"/></a>
-    <a href=""><img src="/images/charts/subway.png" alt="Editing a markdown file for a talk" width="33%"/></a>
+ <a href=""><img src="/images/charts/pickle.png" alt="Editing a markdown file for a talk" width="48%"/></a>
+    <a href=""><img src="/images/charts/subway.png" alt="Editing a markdown file for a talk" width="48%"/></a>
   
 </p>
 
@@ -34,8 +34,8 @@ redirect_from:
 
 
 <p align="center">
-     <a href="https://www.costar.com/article/1436720963/severe-weather-expected-to-make-commercial-property-insurance-more-costly-harder-to-find"> <img src="/images/charts/fire.png" alt="Editing a markdown file for a talk" width="48%"/> </a>
-   <a href="https://www.costar.com/article/1484428056/hawaii-wildfires-rip-through-heart-of-mauis-commercial-district-killing-dozens-destroying-property"><img src="/images/charts/maui.png" alt="Editing a markdown file for a talk" width="48%"/></a>
+     <a href="https://www.costar.com/article/1436720963/severe-weather-expected-to-make-commercial-property-insurance-more-costly-harder-to-find"> <img src="/images/charts/fire.png" alt="Editing a markdown file for a talk" width="40%"/> </a>
+   <a href="https://www.costar.com/article/1484428056/hawaii-wildfires-rip-through-heart-of-mauis-commercial-district-killing-dozens-destroying-property"><img src="/images/charts/maui.png" alt="Editing a markdown file for a talk" width="56%"/></a>
    
 </p>
 
