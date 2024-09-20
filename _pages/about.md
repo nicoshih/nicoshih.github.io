@@ -28,8 +28,8 @@ redirect_from:
 </p>
 
 <p align="center">
-  <a href=""><img src="/images/charts/mapbox_EV.gif" alt="Editing a markdown file for a talk" width="48%"/></a>
-    <a href=""><img src="/images/charts/dutch.png" alt="Editing a markdown file for a talk" width="48%"/></a>
+  <a href=""><img src="/images/charts/mapbox_EV.gif" alt="Editing a markdown file for a talk" width="60%"/></a>
+    <a href=""><img src="/images/charts/dutch.png" alt="Editing a markdown file for a talk" width="36%"/></a>
 </p>
 
 
