@@ -18,9 +18,9 @@ redirect_from:
 </p>
 
 <p align="center">
-  <a href=""><img src="/images/charts/Can_fire.gif" alt="Editing a markdown file for a talk" width="150"/></a>
-  <a href=""><img src="/images/charts/pickle.png" alt="Editing a markdown file for a talk" width="150"/></a>
-    <a href=""><img src="/images/charts/subway.png" alt="Editing a markdown file for a talk" width="150"/></a>
+  <a href=""><img src="/images/charts/Can_fire.gif" alt="Editing a markdown file for a talk" width="33%"/></a>
+  <a href=""><img src="/images/charts/pickle.png" alt="Editing a markdown file for a talk" width="33%"/></a>
+    <a href=""><img src="/images/charts/subway.png" alt="Editing a markdown file for a talk" width="33%"/></a>
 </p>
 
 <p align="center">
