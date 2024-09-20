@@ -13,15 +13,12 @@ main:
 
 #  - title: "Teaching"
 #    url: /teaching/    
-    
-  - title: "Data Works"
-    url: /portfolio/
         
 #  - title: "Blog Posts"
 #    url: /year-archive/
     
   - title: "Writing"
-    url: /cv/
+    url: /"https://muckrack.com/nicoleshih/articles"/
     
  # - title: "Guide"
   #  url: /markdown/
