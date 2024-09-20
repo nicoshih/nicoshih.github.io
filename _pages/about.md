@@ -24,7 +24,7 @@ redirect_from:
 <p align="center">
  <a href=""><img src="/images/charts/pickle.png" alt="Editing a markdown file for a talk" width="33%"/></a>
     <a href=""><img src="/images/charts/subway.png" alt="Editing a markdown file for a talk" width="33%"/></a>
-  <a href="https://www.costar.com/article/156658731/warehouse-opposition-hardens-in-new-jersey-against-proposed-megaprojects"><img src="/images/charts/FukHuaaaAAMoTWl.png" alt="Editing a markdown file for a talk" width="33%"/></a>
+  
 </p>
 
 <p align="center">
@@ -40,43 +40,44 @@ redirect_from:
 </p>
 
 <p align="center">
-  <a href=""><img src="/images/charts/grid_scatter.png" alt="Editing a markdown file for a talk" width="150"/></a>
-    <a href=""><img src="/images/charts/fl.png" alt="Editing a markdown file for a talk" width="150"/></a>
+  <a href=""><img src="/images/charts/grid_scatter.png" alt="Editing a markdown file for a talk" width="33%"/></a>
+    <a href=""><img src="/images/charts/fl.png" alt="Editing a markdown file for a talk" width="33%"/></a>
+  <a href="https://www.costar.com/article/156658731/warehouse-opposition-hardens-in-new-jersey-against-proposed-megaprojects"><img src="/images/charts/FukHuaaaAAMoTWl.png" alt="Editing a markdown file for a talk" width="33%"/></a>
 </p>
 
 <p align="center">
-  <a href=""><img src="/images/charts/soccer1.png" alt="Editing a markdown file for a talk" width="150"/></a>
-  <a href=""><img src="/images/charts/soccer2.png" alt="Editing a markdown file for a talk" width="150"/></a>
-    <a href=""><img src="/images/charts/wfh.png" alt="Editing a markdown file for a talk" width="150"/></a>
+  <a href=""><img src="/images/charts/soccer1.png" alt="Editing a markdown file for a talk" width="33%"/></a>
+  <a href=""><img src="/images/charts/soccer2.png" alt="Editing a markdown file for a talk" width="33%"/></a>
+    <a href=""><img src="/images/charts/wfh.png" alt="Editing a markdown file for a talk" width="33%"/></a>
 </p>
 
 
 
 <p align="center">
-  <a href=""><img src="/images/charts/hotelmap.png" alt="Editing a markdown file for a talk" width="150"/></a>
-  <a href=""><img src="/images/charts/railmap.png" alt="Editing a markdown file for a talk" width="150"/></a>
-    <a href=""><img src="/images/charts/heatmap.png" alt="Editing a markdown file for a talk" width="150"/></a>
+  <a href=""><img src="/images/charts/hotelmap.png" alt="Editing a markdown file for a talk" width="33%"/></a>
+  <a href=""><img src="/images/charts/railmap.png" alt="Editing a markdown file for a talk" width="33%"/></a>
+    <a href=""><img src="/images/charts/heatmap.png" alt="Editing a markdown file for a talk" width="33%"/></a>
 </p>
 
 <p align="center">
-  <a href=""><img src="/images/charts/job_open.png" alt="Editing a markdown file for a talk" width="150"/></a>
-  <a href=""><img src="/images/charts/slope.png" alt="Editing a markdown file for a talk" width="150"/></a>
-    <a href=""><img src="/images/charts/rent.png" alt="Editing a markdown file for a talk" width="150"/></a>
+  <a href=""><img src="/images/charts/job_open.png" alt="Editing a markdown file for a talk" width="33%"/></a>
+  <a href=""><img src="/images/charts/slope.png" alt="Editing a markdown file for a talk" width="33%"/></a>
+    <a href=""><img src="/images/charts/rent.png" alt="Editing a markdown file for a talk" width="33%"/></a>
 </p>
 
 <p align="center">
-  <a href=""><img src="/images/charts/3dmap.png" alt="Editing a markdown file for a talk" width="150"/></a>
-  <a href=""><img src="/images/charts/grocery.png" alt="Editing a markdown file for a talk" width="150"/></a>
-    <a href=""><img src="/images/charts/young_rent.png" alt="Editing a markdown file for a talk" width="150"/></a>
+  <a href=""><img src="/images/charts/3dmap.png" alt="Editing a markdown file for a talk" width="33%"/></a>
+  <a href=""><img src="/images/charts/grocery.png" alt="Editing a markdown file for a talk" width="33%"/></a>
+    <a href=""><img src="/images/charts/young_rent.png" alt="Editing a markdown file for a talk" width="33%"/></a>
 </p>
 
 <p align="center">
-  <a href=""><img src="/images/charts/rent_soar.png" alt="Editing a markdown file for a talk" width="150"/></a>
-  <a href=""><img src="/images/charts/grid_bar.png" alt="Editing a markdown file for a talk" width="150"/></a>
+  <a href=""><img src="/images/charts/rent_soar.png" alt="Editing a markdown file for a talk" width="48%"/></a>
+  <a href=""><img src="/images/charts/grid_bar.png" alt="Editing a markdown file for a talk" width="48%"/></a>
 </p>
 
 <p align="center">
-  <a href=""><img src="/images/charts/dot.jpeg" alt="Editing a markdown file for a talk" width="150"/></a>
-  <a href=""><img src="/images/charts/rv.png" alt="Editing a markdown file for a talk" width="150"/></a>
-    <a href=""><img src="/images/charts/grid_scatter.png" alt="Editing a markdown file for a talk" width="150"/></a>
+  <a href=""><img src="/images/charts/dot.jpeg" alt="Editing a markdown file for a talk" width="33%"/></a>
+  <a href=""><img src="/images/charts/rv.png" alt="Editing a markdown file for a talk" width="33%"/></a>
+    <a href=""><img src="/images/charts/grid_scatter.png" alt="Editing a markdown file for a talk" width="33%"/></a>
 </p>
