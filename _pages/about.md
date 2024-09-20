@@ -15,7 +15,6 @@ redirect_from:
 <p align="center">
   <a href=""><img src="/images/charts/dot.gif" alt="Editing a markdown file for a talk" width="48%"/></a>
   <a href=""><img src="/images/charts/sweet16.gif" alt="Editing a markdown file for a talk" width="48%"/></a>
-  <a href=""><img src="/images/charts/sweet16.gif" alt="Editing a markdown file for a talk" width="48%"/></a>
 </p>
 
 <p align="center">
