@@ -7,34 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-123
+Hello! I am a data journalist / data analyst. I've worked for CoStar News as a data visualization journalist, and as a news reporter with Telegram & Gazette, USA TODAY Network. At CoStar, I was in charge of all things data visualization at costar.com, and from time to time I produced real estate stories with data, as well as collaborated with reporters on data enterprise stories. I also managed CoStar's news traffic dashboard by utilizing SQL as well as Power BI as a data analyst role within the organization.   
 
-A data-driven personal website
-======
-123
-
-123
-
-Getting started
-======
-
-123
-
-Site-wide configuration
-------
-qw3
-
-Create content & metadata
-------
-123
-
-**Markdown generator**
-
-123
-
-How to edit your site's GitHub repository
-------
-123
 
 <p align="center">
   <img src="/images/charts/dot.gif" alt="Editing a markdown file for a talk" width="48%"/>
