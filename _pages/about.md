@@ -39,7 +39,7 @@ redirect_from:
 </p>
 
 <p align="center">
-  <a href="https://www.costar.com/article/725429132/here-is-what-separated-winners-from-losers-in-the-2023-office-market"><img src="/images/charts/office_sale.png" alt="Editing a markdown file for a talk" width="32%"/></a>
+  <a href="https://www.costar.com/article/725429132/here-is-what-separated-winners-from-losers-in-the-2023-office-market"><img src="/images/charts/office_sales.png" alt="Editing a markdown file for a talk" width="32%"/></a>
     <a href="https://www.costar.com/article/1035547232/best-places-to-retire-pennsylvania-dominates-new-ranking-as-florida-markets-drop"><img src="/images/charts/fl.png" alt="Editing a markdown file for a talk" width="32%"/></a>
   <a href="https://www.costar.com/article/156658731/warehouse-opposition-hardens-in-new-jersey-against-proposed-megaprojects"><img src="/images/charts/FukHuaaaAAMoTWl.png" alt="Editing a markdown file for a talk" width="32%"/></a>
 </p>
@@ -71,8 +71,8 @@ redirect_from:
 </p>
 
 <p align="center">
-  <a href="https://www.costar.com/article/384748660/us-residents-flocking-to-florida-send-rent-and-home-prices-soaring"><img src="/images/charts/rent_soar.png" alt="Editing a markdown file for a talk" width="48%"/></a>
-  <a href="https://www.costar.com/article/1929375453/us-industrial-production-rebounds"><img src="/images/charts/grid_bar.png" alt="Editing a markdown file for a talk" width="48%"/></a>
+  <a href="https://www.costar.com/article/384748660/us-residents-flocking-to-florida-send-rent-and-home-prices-soaring"><img src="/images/charts/rent_soar.png" alt="Editing a markdown file for a talk" width="32%"/></a>
+  <a href="https://www.costar.com/article/1929375453/us-industrial-production-rebounds"><img src="/images/charts/grid_bar.png" alt="Editing a markdown file for a talk" width="32%"/></a>
    <a href="https://www.costar.com/article/37004062/new-york-developer-gambles-on-las-vegas-shift-toward-strip-facing-stores?utm_campaign=news&utm_content=https://www.costar.com/ar&utm_medium=social&utm_source=twitter&utm_term=news"><img src="/images/charts/vegas.png" alt="Editing a markdown file for a talk" width="32%"/></a>
 </p>
 
