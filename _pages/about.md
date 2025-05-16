@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-<p>Hello world! I’m a data journalist and analyst with a passion for storytelling through data and visualizations. At CoStar News, I led data visualization efforts for costar.com, creating engaging data-driven stories while collaborating with reporters on enterprise projects. I also managed the news traffic dashboard using SQL and Power BI, helping news leaders shape their strategy. Before CoStar, I worked as a reporter for Telegram & Gazette, part of the USA TODAY Network. </p>
+<p>Hello world! I’m a data journalist and analyst with a passion for storytelling through data and compelling visualizations. I currently work as a Research Analyst at Colliers, where I analyze commercial real estate trends and support data-driven insights across property sectors.
+
+Previously, at CoStar News, I led data visualization efforts for costar.com, producing engaging, data-rich stories and collaborating closely with reporters on enterprise projects. I also built and maintained the newsroom’s traffic dashboard using SQL and Power BI to help editorial leaders shape strategy and measure impact. Before that, I worked as a reporter for the Telegram & Gazette, part of the USA TODAY Network.</p>
 
 <p>Explore more of my data works <a href="https://www.costar.com/author/00000181-da79-d6e7-a5a9-daf970a00000/nicole-shih">here</a>, and writing samples <a href="https://www.telegram.com/staff/4250655001/nicole-shih/">here. </a> </p>
 
