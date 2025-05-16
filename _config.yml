@@ -21,7 +21,7 @@ repository               : "nicoshih/nicoshih.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://costar.brightspotcdn.com/bd/28/ca8905da453c97543706633523e8/99.jpeg"
+  avatar           : "https://colliersapps.blob.core.windows.net/people/ea9f5d4d-6148-4c43-8e44-8338f8beda9f-220-220.png"
   name             : "Nicole Shih"
   pronouns         : # example: "she/her"  
   bio              : "Data Journalist, Data Analyst, Data Visualization"
